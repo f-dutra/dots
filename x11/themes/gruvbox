@@ -1,0 +1,103 @@
+*.color0: #1d2021
+*.color1: #cc241d
+*.color2: #98971a
+*.color3: #d79921
+*.color4: #458588
+*.color5: #b16286
+*.color6: #689d6a
+*.color7: #a89984
+*.color8: #928374
+*.color9: #fb4934
+*.color10: #b8bb26
+*.color11: #fabd2f
+*.color12: #83a598
+*.color13: #d3869b
+*.color14: #8ec07c
+*.color15: #ebdbb2
+*.color256: #1d2021
+*.color257: #ebdbb2
+*.foreground: #ebdbb2
+*.background: #1d2021
+
+
+*.normbgcolor: #1d2021
+*.normfgcolor: #ebdbb2
+*.selbgcolor: #1d2021
+*.selfgcolor: #fb4934
+*.selbordercolor: #fb4934
+*.normbordercolor: #1d2021
+*.barbordercolor: #d3869b
+
+*.borderpx: 3
+*.topbar: 1
+*.font: monospace:size=12
+*.vertpad: 0
+*.sidepad: 0
+*.alpha: 0.9
+*.horizpadbar: 7
+*.vertpadbar: 7
+
+*.disabled: #928374
+
+*.cmdbgsel: #1d2021
+*.cmdfgsel: #ebdbb2
+
+*.tagbgsel: #1d2021
+*.tagbgnorm: #1d2021
+*.tagbgocc: #1d2021
+*.tagbgurgent: #1d2021
+*.tagfgsel: #ebdbb2
+*.tagfgnorm: #a89984
+*.tagfgocc: #a89984
+*.tagfgurgent: #ebdbb2
+
+*.awinbgnorm: #1d2021
+*.awinbgsel: #1d2021
+*.awinfgnorm: #ebdbb2
+*.awinfgsel: #ebdbb2
+
+*.traybgnorm: #1d2021
+*.traybgsel: #1d2021
+*.trayfgnorm: #ebdbb2
+*.trayfgsel: #ebdbb2
+
+*.netbgnorm: #1d2021
+*.netbgsel: #fb4934
+*.netfgnorm: #fb4934
+*.netfgsel: #1d2021
+
+
+*.datebgnorm: #3c3836
+*.datebgsel: #3c3836
+*.datefgnorm: #ebdbb2
+*.datefgsel: #ebdbb2
+
+*.mntbgsel: #3c3836
+*.mntbgnorm: #3c3836
+*.mntfgsel: #ebdbb2
+*.mntfgnorm: #ebdbb2
+
+*.cpubgnorm: #3c3836
+*.cpubgsel: #3c3836
+*.cpufgnorm: #ebdbb2
+*.cpufgsel: #ebdbb2
+
+*.tempbgnorm: #3c3836
+*.tempbgsel: #3c3836
+*.tempfgnorm: #ebdbb2
+*.tempfgsel: #ebdbb2
+
+*.membgnorm: #3c3836
+*.membgsel: #3c3836
+*.memfgnorm: #ebdbb2
+*.memfgsel: #ebdbb2
+
+*.volbgnorm: #3c3836
+*.volbgsel: #3c3836
+*.volfgnorm: #ebdbb2
+*.volfgsel: #ebdbb2
+
+*.powbgnorm: #8ec07c
+*.powbgsel: #689d6a
+*.powfgnorm: #1d2021
+*.powfgsel: #1d2021
